@@ -1,5 +1,3 @@
-<img width="1283" height="937" alt="image" src="https://github.com/user-attachments/assets/5393f5e0-56ed-4e1c-a7e2-b2191cd58d7b" /># 🎵 MoodPlayer: Mood Based .mp3 Player
-
 A desktop music player built with **Python, Tkinter, Pygame and MySQL**. You type in your mood (happy, sad, energetic, calm), and MoodPlayer loads the songs from the folder linked to that mood in a MySQL database and plays them with a live bar visualizer.
 
 > CBSE Computer Science (083) Investigatory Project, Academic Year 2025 – 2026
